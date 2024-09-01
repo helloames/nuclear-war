@@ -1,0 +1,24 @@
+ICB add variable notes:
+Prevail 1/Prevail 2: Either state [1/2] wins or compromise where they are happy, coded from monadic ICB data, where missing, from AB, where missing and post 2001, using outcome for rival in the conflict
+	-note: for our data we only have win/lose/draw
+Victory 1/Victory 2: same
+nuclear stuff: coded directly from your stuff
+kinetic: from top level of violence of either participant in mondic ICB, level > 2 (major clashes or full scale war)
+kinetic 2: same but level > 1 (minor clashes also included)
+a1/a2democracy: using polity score, if > 6
+Salience, Independence, Complexity: for-looped from our data
+other country specific vars: currently NA for ICB, need to use our coding for dyads that match, can interpolate for non matching dyads
+
+
+othernotes: 98 crises in ICB dyadic and not in our data, I added 98 hist 1, crisis = 0 observations for them
+
+Trieste 2 needs to be recoded by us, no indication its not a crisis, but not really coded
+
+Same for Taiwan Strait I
+
+And Serbian Train Incident
+
+Coded missing salience for Yugoslavia/Croatia as 4 (same as for Yug/Slovenia)
+
+Coded missing independence for Suez as 0
+
